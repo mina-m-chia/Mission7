@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{A4C038C7-6503-412C-9C7F-98B5921AE46A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission7/Models/ViewModels/PageInfo.cs">
+    <Files>
+      <File FileName="Mission7/Startup.cs" Line="31" Column="14" />
+      <File FileName="Mission7/Program.cs" />
+      <File FileName="Mission7/appsettings.json" />
+      <File FileName="Mission7/Infrastructure/PaginationTagHelpers.cs" />
+      <File FileName="Mission7/Views/Home/Index.cshtml" />
+      <File FileName="Mission7/Views/Shared/_Layout.cshtml" />
+      <File FileName="Mission7/Models/ViewModels/BooksViewModel.cs" />
+      <File FileName="Mission7/Models/ViewModels/PageInfo.cs" Line="11" Column="61" />
+      <File FileName="Mission7/Controllers/HomeController.cs" Line="24" Column="29" />
+      <File FileName="Mission7/Models/Books.cs" />
+      <File FileName="Mission7/Models/BookstoreContext.cs" />
+      <File FileName="Mission7/Models/EFBookstoreRepository.cs" />
+      <File FileName="Mission7/Models/IBookstoreRepository.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mission7" expanded="True">
+            <Node name="Mission7" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Infrastructure" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="ViewModels" expanded="True">
+                  <Node name="PageInfo.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Mission7 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
