@@ -148,3 +148,9 @@
 /Users/minachia/Documents/GitHub/Mission7/Mission7/obj/Debug/netcoreapp3.1/Mission7.dll
 /Users/minachia/Documents/GitHub/Mission7/Mission7/obj/Debug/netcoreapp3.1/Mission7.pdb
 /Users/minachia/Documents/GitHub/Mission7/Mission7/obj/Debug/netcoreapp3.1/Mission7.genruntimeconfig.cache
+/Users/minachia/Documents/GitHub/Mission7/Mission7/obj/Debug/netcoreapp3.1/Razor/Pages/ShoppingCart.cshtml.g.cs
+/Users/minachia/Documents/GitHub/Mission7/Mission7/obj/Debug/netcoreapp3.1/Razor/Pages/_ShoppingCartLayout.cshtml.g.cs
+/Users/minachia/Documents/GitHub/Mission7/Mission7/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/minachia/Documents/GitHub/Mission7/Mission7/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/minachia/Documents/GitHub/Mission7/Mission7/obj/Debug/netcoreapp3.1/Razor/Views/Shared/BookSummary.cshtml.g.cs
+/Users/minachia/Documents/GitHub/Mission7/Mission7/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Types/Default.cshtml.g.cs
