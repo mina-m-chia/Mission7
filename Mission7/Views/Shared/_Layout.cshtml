@@ -7,19 +7,39 @@
     <link href="/lib/twitter-bootstrap/css/bootstrap.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
+    <link href="/lib/font-awesome/css/all.min.css" rel="stylesheet" />
 </head>
 <body>
     <body>
         <div class="bg-dark text-white p-2">
-            <span class="navbar-brand ml-2">Bookstore</span>
+            <div class="container-fluid">
+                <div class="row">
+                    <span class="col navbar-brand">BOOKSTORE</span>
+                    <div class="col-6 text-right">
+                        <vc:shopping-cart-summary></vc:shopping-cart-summary>
+                    </div>
+                </div>
+            </div>
         </div>
-        <div class="row m-1 p-1">
+                <div class="row m-1 p-1">
 
+<<<<<<< Updated upstream
             <div class="col-3"></div>
             <div class="col-6">
                 @RenderBody()
             </div>
         </div>
     </body>
+=======
+                    <div id="types" class="col-3">
+                        <vc:types></vc:types>
+                    </div>
+
+                    <div class="col-9">
+                        @RenderBody()
+                    </div>
+                </div>
+</body>
+>>>>>>> Stashed changes
 </body>
 </html>

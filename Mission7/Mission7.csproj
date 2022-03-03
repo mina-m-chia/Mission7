@@ -21,9 +21,32 @@
     <None Remove="Models\ViewModels\" />
     <None Remove="Infrastructure\" />
     <None Remove="Twitter.Bootstrap" />
+<<<<<<< Updated upstream
+=======
+    <None Remove="Components\" />
+    <None Remove="Pages\" />
+    <None Remove="Views\Shared\Components\" />
+    <None Remove="Views\Shared\Components\Types\" />
+    <None Remove="Views\Purchase\" />
+    <None Remove="Views\Shared\Components\ShoppingCartSummary\" />
+    <None Remove="font-awesome" />
+>>>>>>> Stashed changes
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\ViewModels\" />
     <Folder Include="Infrastructure\" />
+<<<<<<< Updated upstream
+=======
+    <Folder Include="Components\" />
+    <Folder Include="Pages\" />
+    <Folder Include="Views\Shared\Components\" />
+    <Folder Include="Views\Shared\Components\Types\" />
+    <Folder Include="Views\Purchase\" />
+    <Folder Include="Views\Shared\Components\ShoppingCartSummary\" />
+    <Folder Include="wwwroot\img\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\img\" />
+>>>>>>> Stashed changes
   </ItemGroup>
 </Project>
